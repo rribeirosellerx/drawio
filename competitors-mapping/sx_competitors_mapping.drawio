@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T13:54:52.574Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1MXt0VDDpusMYfuIZww7" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T14:04:01.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BL5_mbJkCo_UA7hnV0K9" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2241" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
             <mxPoint x="370" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="stVHDZEVp9g0nivzBu3Q-4" value="1. Keywords by ASIN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry y="220" width="170" height="30" as="geometry" />
+        <mxCell id="stVHDZEVp9g0nivzBu3Q-4" value="1. Keywords by SellerX ASIN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="220" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="stVHDZEVp9g0nivzBu3Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="stVHDZEVp9g0nivzBu3Q-5" target="stVHDZEVp9g0nivzBu3Q-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,7 +43,7 @@
           <mxGeometry x="135" y="405" width="45" height="40" as="geometry" />
         </mxCell>
         <mxCell id="stVHDZEVp9g0nivzBu3Q-15" value="2. Main Keyword Selection" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="415" y="220" width="215" height="30" as="geometry" />
+          <mxGeometry x="100" y="780" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="stVHDZEVp9g0nivzBu3Q-16" value="3. Competitors Selection" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="872" y="220" width="170" height="30" as="geometry" />
@@ -65,14 +65,14 @@
         <mxCell id="-QlwTN2asBw5_g4uzWNm-0" value="/asins_by_keywords_list" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="175" y="310" width="170" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-QlwTN2asBw5_g4uzWNm-1" value="Process Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-10" y="250" width="130" height="30" as="geometry" />
+        <mxCell id="-QlwTN2asBw5_g4uzWNm-1" value="Search query performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="250" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-QlwTN2asBw5_g4uzWNm-2" value="The main keyword should describe our product as precisely as possible, while featuring a high search volume" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="415" y="250" width="345" height="30" as="geometry" />
+          <mxGeometry x="100" y="810" width="345" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-QlwTN2asBw5_g4uzWNm-3" value="Revenue from highest to lowest. Identify products that are similar to ours by reading the title, specifications and checking out the pictures." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="865" y="250" width="365" height="50" as="geometry" />
+          <mxGeometry x="872" y="250" width="365" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-QlwTN2asBw5_g4uzWNm-4" value="/api/product_database_query" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="302.5" width="160" height="30" as="geometry" />
@@ -101,7 +101,7 @@
           <mxGeometry x="522.5" y="515" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-QlwTN2asBw5_g4uzWNm-21" value="&lt;b&gt;AI&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#990099;fontColor=#660066;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="630" width="90" height="60" as="geometry" />
+          <mxGeometry x="100" y="880" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9-jwy_baAWpza8GN5LS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="v9-jwy_baAWpza8GN5LS-1" target="v9-jwy_baAWpza8GN5LS-2">
           <mxGeometry relative="1" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="872" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v9-jwy_baAWpza8GN5LS-18" value="&lt;b&gt;AI&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#990099;fontColor=#660066;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="630" width="90" height="60" as="geometry" />
+          <mxGeometry x="215" y="880" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9-jwy_baAWpza8GN5LS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="stVHDZEVp9g0nivzBu3Q-8" target="stVHDZEVp9g0nivzBu3Q-17">
           <mxGeometry relative="1" as="geometry">
@@ -167,17 +167,11 @@
         <mxCell id="v9-jwy_baAWpza8GN5LS-23" value="Filters" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="892" y="515" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9-jwy_baAWpza8GN5LS-69" value="2. Main Keyword Selection" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="80" width="215" height="30" as="geometry" />
+        <mxCell id="v9-jwy_baAWpza8GN5LS-69" value="2. Competitors ASINs by Keywords" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="220" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9-jwy_baAWpza8GN5LS-70" value="The main keyword should describe our product as precisely as possible, while featuring a high search volume" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="110" width="345" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v9-jwy_baAWpza8GN5LS-71" value="3. Competitors Selection" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="867" y="70" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v9-jwy_baAWpza8GN5LS-72" value="Revenue from highest to lowest. Identify products that are similar to ours by reading the title, specifications and checking out the pictures." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="860" y="100" width="365" height="50" as="geometry" />
+        <mxCell id="v9-jwy_baAWpza8GN5LS-70" value="After identifying the most relevant keywords, we utilize the corresponding competitor ASINs in our next step" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="250" width="345" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
